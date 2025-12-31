@@ -7,17 +7,19 @@ create a "least-cost" route environment.
 
 This project is freely released under GNU GPL3 license
 
+This project its a full Updated/Upgraded/Mod for FreePBX17, i made a new repository since the originalone has been forgoten for a long time
+is based on the fork maded by MrDeePHouSe that add support php 8
+https://github.com/MrDeePHouSe/freepbx-trunk-balancing/tree/php8-support
+that is a fork maded by pbx-profi using the last alternative version that "support pjsip"
+https://github.com/pbx-profi/freepbx-trunk-balancing
+that is a fork from the original proyect maded by POSSA
+https://github.com/POSSA/freepbx-trunk-balancing
+
 Installation:
 Manually download the latest version of the module tarball from here:
-
-http://pbxossa.org/files/trunkbalance/
-
-Don't decompress the archive. In FreePBX, Module Admin, upload modules, browse to the tarball and upload
-it to the PBX. The module will now be available to install/disable/uninstall in module admin like any other module.
 
 Wiki:
 https://github.com/POSSA/freepbx-trunk-balancing/wiki
 
-Issue tracker:
-https://github.com/POSSA/freepbx-trunk-balancing/issues
+
 
