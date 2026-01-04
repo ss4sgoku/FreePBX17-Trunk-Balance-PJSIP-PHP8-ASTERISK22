@@ -17,6 +17,7 @@ https://github.com/POSSA/freepbx-trunk-balancing
 
 Installation:
 Manually download the latest version of the module tarball from here:
+https://github.com/ss4sgoku/FreePBX17-Trunk-Balance-PJSIP-PHP8-ASTERISK22/
 
 Wiki:
 https://github.com/POSSA/freepbx-trunk-balancing/wiki
